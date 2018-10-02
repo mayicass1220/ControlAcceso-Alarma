@@ -49,7 +49,11 @@ caractéres de la misma.
 ![captura 2](https://user-images.githubusercontent.com/43210622/46337298-d4ef2500-c5f2-11e8-8172-48436c6cb796.PNG)
 
 Se establecen los pines de la placa LCD y se cran las variables de salida
-para el buzzer y los diodos led (rojo y verde)
+para el buzzer y los diodos led (rojo y verde). Se establecen 4 filas, 4 columnas.
+Se define la matriz del teclado (keymap.
+Se conectan los keypads ROW1, ROW2, ROW3 y ROW4 a esos Pines de Arduino, ( 9,8,7,6 )
+y  los keypads COL1, COL2, COL3 y COL4 a esos Pines de Arduino ( 5,4,3,2,).
+
 
 
 
