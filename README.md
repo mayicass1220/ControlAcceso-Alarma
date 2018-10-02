@@ -40,5 +40,9 @@ conexión y diseño utilizado para este proyecto.
 Procedemos con la programación 
 Comenzando por incluir las librerias necesarias 
 
+![captura 1](https://user-images.githubusercontent.com/43210622/46337079-4da1b180-c5f2-11e8-9211-1bae951e4182.PNG)
+
+Se define la clave o contraseña que nos dará el acceso, así como la longitud de 
+caractéres de la misma.
 
 
