@@ -63,6 +63,12 @@ donde en la pantalla display nos muestra el mensaje *Bienvenido* FAVOR ENTRE PIN
 
 Una vez ingresado el PIN correcto, nos mostrara el siguiente mensaje & el led verde se mostrara encendido.
 
+![captura 5](https://user-images.githubusercontent.com/43210622/46353995-18fa1e00-c623-11e8-9de5-84f6aee90308.PNG)
+
+En caso de que la clave PIN sea incorrecta, nos mostrará el mensaje que se señala en la siguiente
+imagén, y el led rojo se mantendra encendido.
+
+
 
 
 
