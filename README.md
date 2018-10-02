@@ -35,14 +35,23 @@ desarrollo.
 ### DESARROLLO
 En la siguiente imagen se muestra el diagrama, que muestra la 
 conexión y diseño utilizado para este proyecto.
+
 ![alarma_diagrama_opt](https://user-images.githubusercontent.com/43210622/46336144-8ab87480-c5ef-11e8-9b26-19d2a9830f64.png)
 
 Procedemos con la programación 
-Comenzando por incluir las librerias necesarias 
+Comenzando por incluir las librerias necesarias
 
 ![captura 1](https://user-images.githubusercontent.com/43210622/46337079-4da1b180-c5f2-11e8-9211-1bae951e4182.PNG)
 
 Se define la clave o contraseña que nos dará el acceso, así como la longitud de 
 caractéres de la misma.
+
+![captura 2](https://user-images.githubusercontent.com/43210622/46337298-d4ef2500-c5f2-11e8-8172-48436c6cb796.PNG)
+
+Se establecen los pines de la placa LCD y se cran las variables de salida
+para el buzzer y los diodos led (rojo y verde)
+
+
+
 
 
