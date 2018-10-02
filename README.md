@@ -59,6 +59,12 @@ y  los keypads COL1, COL2, COL3 y COL4 a esos Pines de Arduino ( 5,4,3,2,).
 La siguiente imagen se muestra los componentes ya montados en la protoboard
 donde en la pantalla display nos muestra el mensaje *Bienvenido* FAVOR ENTRE PIN.
 
+![captura 4](https://user-images.githubusercontent.com/43210622/46353845-c3be0c80-c622-11e8-9e50-55e152a5ca6a.PNG)
+
+Una vez ingresado el PIN correcto, nos mostrara el siguiente mensaje & el led verde se mostrara encendido.
+
+
+
 
 
 
