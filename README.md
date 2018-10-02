@@ -30,10 +30,15 @@ desarrollo.
 5. Dos diodos LED (rojo/verde)(2 resistencias 330 Ohm)
 6. Buzzer pasivo
 7. Cables Dupont macho/hembra.
+8. Un potenciometro de 10k
 
 ### DESARROLLO
 En la siguiente imagen se muestra el diagrama, que muestra la 
 conexión y diseño utilizado para este proyecto.
-ñ
+![alarma_diagrama_opt](https://user-images.githubusercontent.com/43210622/46336144-8ab87480-c5ef-11e8-9b26-19d2a9830f64.png)
+
+Procedemos con la programación 
+Comenzando por incluir las librerias necesarias 
+
 
 
