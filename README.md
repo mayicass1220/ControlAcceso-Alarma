@@ -28,13 +28,12 @@ desarrollo.
 3. Display LCD 16x2
 4. Teclado matricial (keypad) 4x4
 5. Dos diodos LED (rojo/verde)(2 resistencias 330 Ohm)
-6. Buzzer pasivo
 7. Cables Dupont macho/hembra.
 8. Un potenciometro de 10k
 
 ### DESARROLLO
 En la siguiente imagen se muestra el diagrama, que muestra la 
-conexión y diseño utilizado para este proyecto.
+conexión y diseño utilizado para este proyecto. 
 
 ![alarma_diagrama_opt](https://user-images.githubusercontent.com/43210622/46336144-8ab87480-c5ef-11e8-9b26-19d2a9830f64.png)
 
@@ -66,7 +65,21 @@ Una vez ingresado el PIN correcto, nos mostrara el siguiente mensaje & el led ve
 ![captura 5](https://user-images.githubusercontent.com/43210622/46353995-18fa1e00-c623-11e8-9de5-84f6aee90308.PNG)
 
 En caso de que la clave PIN sea incorrecta, nos mostrará el mensaje que se señala en la siguiente
-imagén, y el led rojo se mantendra encendido.
+imagén, y el led rojo se mantendra encendido. La función del potencimetro para este proyecto, 
+consiste en modificar o variar el contraste de la pantalla LCD. 
+
+
+![captura 6](https://user-images.githubusercontent.com/43210622/46354135-85751d00-c623-11e8-8dfc-be259427b74e.PNG)
+
+### REFERENCIAS
+
+https://www.prometec.net/displays-lcd/
+
+https://www.prometec.net/teclados-matriciales/#modal
+
+
+
+
 
 
 
