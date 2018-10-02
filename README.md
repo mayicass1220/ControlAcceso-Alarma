@@ -54,6 +54,14 @@ Se define la matriz del teclado (keymap.
 Se conectan los keypads ROW1, ROW2, ROW3 y ROW4 a esos Pines de Arduino, ( 9,8,7,6 )
 y  los keypads COL1, COL2, COL3 y COL4 a esos Pines de Arduino ( 5,4,3,2,).
 
+![captura 3](https://user-images.githubusercontent.com/43210622/46353209-3d54fb00-c621-11e8-99f8-ec902ff8f04e.PNG)
+
+La siguiente imagen se muestra los componentes ya montados en la protoboard
+donde en la pantalla display nos muestra el mensaje *Bienvenido* FAVOR ENTRE PIN.
+
+
+
+
 
 
 
